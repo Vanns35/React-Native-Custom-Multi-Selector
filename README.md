@@ -15,6 +15,7 @@ Step 1: Create a view for your page.
 I'll keep it simple for this example. ( Black Theme🖤).
 Edit Your App.js, remove all previous code, and create your own view.
 We are going to divided page into three sections:
+
 a. Header Part: Menu button, Title, and Add Icon. 
 b. Main Body: View for showing a list of cards.
 c. Footer Part: Small organized static footer.
