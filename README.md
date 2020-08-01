@@ -3,6 +3,7 @@ Sample example for customize Multi Selector
 
 React Native Custom Multi Selector
 
+You can find the whole working code on Snack: "https://snack.expo.io/@vanns35/edfe56"
 
   A lot of times when we are looking for a multi-selector list or dropdown, we are using this filters to speed up the process of getting to the desired results, but very few results available for multi-selector, So here I came up with a solution by creating my own Custom Multi Selector.
 Multiple select
